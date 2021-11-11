@@ -60,44 +60,44 @@
 
 
 
-// i = i + 1;
-// i++;
+// // i = i + 1;
+// // i++;
 
-let i = 0;
+// let i = 0;
 
-console.log(i++, 'i');
+// console.log(i++, 'i');
 
-console.log(i, 'i next');
+// console.log(i, 'i next');
 
-let i = 0;
-let j = 0;
+// let i = 0;
+// let j = 0;
 
-while (i < 5) {
-  console.log(j, 'jjjjj');
-  j = 0;
+// while (i < 5) {
+//   console.log(j, 'jjjjj');
+//   j = 0;
 
-  while (j < 5) {
-    // console.log(j, 'index j');
-    // console.log(i, 'index i');
-    j++;
-  }
+//   while (j < 5) {
+//     // console.log(j, 'index j');
+//     // console.log(i, 'index i');
+//     j++;
+//   }
 
-  i++;
-}
+//   i++;
+// }
 
-let i = 0;
+// let i = 0;
 
-while (i < 0) {
-  console.log(i, 'i');
-}
+// while (i < 0) {
+//   console.log(i, 'i');
+// }
 
-let i = 0;
+// let i = 0;
 
-do {
-  console.log(i, 'i');
+// do {
+//   console.log(i, 'i');
 
-  i++;
-} while (i < 0);
+//   i++;
+// } while (i < 0);
 
 1;
 // Create a function that takes in a number as a string n and returns the number without trailing and leading zeros.
